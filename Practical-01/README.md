@@ -1,20 +1,27 @@
-# Practical 01 – Photoshop Basic Tools
+# Practical 01 - Introduction to Adobe Photoshop
 
 ## Student Details
-- Name: Anushka Chaudhary (replace before submission)
-- Roll Number: 253026043 (replace before submission)
-- Course: BCA
-- Semester: 3rd
+- **Name:** Anushka Chaudhary
+- **Roll Number:** 253026043
+- **Course:** Desktop Publishing (DTP)
+- **Semester:** 3rd Semester
 
 ## Objective
-Create a 1200 × 800 composition using shapes, two or more colors and student text.
+To understand the Adobe Photoshop interface and learn to use basic tools for creating a simple design using shapes, colours, and text.
 
-## Tools / techniques
-Move, Marquee, Lasso, Brush, Eraser, Crop, Shape and Type tools.
+## Tools Used
+- Move Tool
+- Marquee Tool
+- Lasso Tool
+- Brush Tool
+- Eraser Tool
+- Shape Tool
+- Text Tool
+- Foreground and Background Colours
 
 ## Output
-Artwork is included as PNG/JPG and SVG source. Open the artwork in Adobe Photoshop, review/edit it, replace student placeholders, and save the final PSD. Ensure the practical demonstrates the techniques listed in the assignment.
+A basic Photoshop design containing shapes, colours, and text.
 
 ## Files
-- JPG: `Practical_01_Name_RollNo.jpg`
-- PNG: `Practical_01_Name_RollNo.png`
+- `Practical_01.psd`
+- `Practical_01.jpg`
